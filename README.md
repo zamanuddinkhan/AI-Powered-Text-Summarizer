@@ -36,9 +36,13 @@ ai-text-summarizer/
 │   ├── models.py
 │   └── utils.py
 │
+├── tests/
+│   └── test_summarizer.py
+│
+├── .env.example
+├── .gitignore
 ├── requirements.txt
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ---
