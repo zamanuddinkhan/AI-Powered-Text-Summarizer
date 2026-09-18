@@ -25,28 +25,6 @@ An AI-powered Text Summarizer built using **FastAPI** and **Python**. This appli
 
 ---
 
-## Project Structure
-
-```
-ai-text-summarizer/
-│
-├── app/
-│   ├── main.py
-│   ├── summarizer.py
-│   ├── models.py
-│   └── utils.py
-│
-├── tests/
-│   └── test_summarizer.py
-│
-├── .env.example
-├── .gitignore
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## Installation
 
 ### 1. Clone the Repository
